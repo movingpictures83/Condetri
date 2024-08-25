@@ -1,0 +1,2 @@
+Prefix plugins/Condetri/example/
+Plugin Condetri inputfile parameters.txt outputfile output
